@@ -1,0 +1,40 @@
+body{
+    background-color: lightcyan;
+}
+
+
+#menu{
+    text-align: left;
+    border: solid pink;
+    width: 100px;
+    margin-top: 200px;
+    margin-left: 100px;
+    padding: 30px;
+    border-radius: 30px;
+    text-transform: uppercase;
+    box-shadow: 0 0 0 5px #333;
+}
+
+#contact_section{
+    margin-top: -330px;
+    margin-left: 450px;
+    width: 500px;
+    padding: 20px;
+    font-size: 23px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#box1{
+    border: 3px cyan solid;
+    /*margin-top: 30px ;*/
+    /*margin-left: -50px;*/
+    margin: 30px 20px auto;
+    width: 400px;
+    height: auto;
+    padding: 15px;
+    font-size: 20px;
+
+}
+a{
+    text-decoration: none;
+}
